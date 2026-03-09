@@ -1,0 +1,18 @@
+customer_id,customer_name,store_name,region,total_spent,txn_count
+9,Vikas Nair,TechWorld,East,1528.4299999999998,3
+9,Vikas Nair,GadgetHub,East,1396.096,2
+8,Neha Singh,StyleStop,North,1232.2812,2
+11,Sanjay Kulkarni,StyleStop,West,969.84,1
+5,Arjun Mehta,TechWorld,North,924.432,2
+10,Pooja Das,TechWorld,South,884.355,2
+12,Deepa Menon,TechWorld,North,782.15,1
+14,Anjali Joshi,GadgetHub,East,733.41,1
+9,Vikas Nair,BookNest,East,678.192,2
+13,Manish Gupta,StyleStop,South,572.25,1
+12,Deepa Menon,StyleStop,North,476.3808,2
+10,Pooja Das,FreshMart,South,447.88,1
+15,Rohit Khanna,StyleStop,West,396.37,1
+10,Pooja Das,GadgetHub,South,383.59,1
+11,Sanjay Kulkarni,GadgetHub,West,276.18,1
+13,Manish Gupta,TechWorld,South,174.29,1
+7,Rahul Verma,StyleStop,West,59.88,1

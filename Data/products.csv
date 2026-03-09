@@ -1,0 +1,11 @@
+product_id,product_name,category,price,brand
+1,Laptop,Electronics,75000,HP
+2,Smartphone,Electronics,45000,Samsung
+3,Headphones,Accessories,2500,Sony
+4,Smartwatch,Wearable,15000,Fitbit
+5,Tablet,Electronics,30000,Apple
+6,Keyboard,Accessories,1200,Logitech
+7,Mouse,Accessories,800,Dell
+8,Monitor,Electronics,10000,LG
+9,Printer,Electronics,8000,Canon
+10,External Hard Drive,Storage,5000,Seagate

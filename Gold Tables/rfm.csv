@@ -1,0 +1,11 @@
+customer_id,customer_name,last_txn,frequency,monetary,recency_days,recency_bucket,frequency_bucket,monetary_bucket
+12,Deepa Menon,2025-10-03,3,1258.5308,155,90+,medium,high
+10,Pooja Das,2025-10-02,4,1715.8249999999998,156,90+,medium,high
+11,Sanjay Kulkarni,2025-10-04,2,1246.02,154,90+,low,high
+5,Arjun Mehta,2025-10-02,2,924.432,156,90+,low,medium
+15,Rohit Khanna,2025-10-02,1,396.37,156,90+,low,medium
+13,Manish Gupta,2025-10-03,2,746.54,155,90+,low,medium
+8,Neha Singh,2025-10-04,2,1232.2812,154,90+,low,high
+9,Vikas Nair,2025-10-04,7,3602.718,154,90+,medium,high
+14,Anjali Joshi,2025-10-04,1,733.41,154,90+,low,medium
+7,Rahul Verma,2025-10-01,1,59.88,157,90+,low,low

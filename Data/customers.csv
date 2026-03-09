@@ -1,0 +1,16 @@
+cust_id,cust_name,age,gender,region,signup_date
+1,Amit Sharma,28,Male,North,2023-01-10
+2,Priya Borkar,32,Female,West,2023-02-14
+3,Ravi Patel,25,Male,South,2023-03-01
+4,Sneha Iyer,30,Female,East,2023-03-20
+5,Arjun Mehta,27,Male,North,2023-04-05
+6,Kavya Rao,29,Female,South,2023-04-18
+7,Rahul Verma,35,Male,West,2023-05-02
+8,Neha Singh,24,Female,North,2023-05-15
+9,Vikas Nair,31,Male,East,2023-06-01
+10,Pooja Das,26,Female,South,2023-06-12
+11,Sanjay Kulkarni,40,Male,West,2023-07-01
+12,Deepa Menon,33,Female,North,2023-07-20
+13,Manish Gupta,38,Male,South,2023-08-01
+14,Anjali Joshi,22,Female,East,2023-08-14
+15,Rohit Khanna,36,Male,West,2023-09-01

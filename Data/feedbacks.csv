@@ -1,0 +1,16 @@
+feedback_id,customer_id,pproduct_id,rating,review,date
+1,1,5,5,Excellent product!,2024-10-01
+2,4,2,4,Good value for money,2024-10-02
+3,13,10,3,Average quality,2024-10-03
+4,10,4,5,Highly recommended,2024-10-04
+5,5,5,2,Not satisfied,2024-10-05
+6,6,7,4,Worth the price,2024-10-06
+7,10,2,5,Great performance,2024-10-07
+8,18,13,3,Could be better,2024-10-08
+9,19,10,4,Very useful,2024-10-09
+10,11,11,2,Poor design,2024-10-10
+11,1,1,5,Loved it,2024-10-11
+12,2,2,4,Nice and compact,2024-10-12
+13,3,3,3,Okay product,2024-10-13
+14,1,5,5,Superb quality,2024-10-14
+15,6,8,4,Good build,2024-10-15
